@@ -1,0 +1,29 @@
+Avançado
+
+JDBC - arquivo com classes e interfaces para conexao
+
+Adicionar drive para conexão com o banco
+Botão direito no projeto - propriedade - hava build - add folder - criar lib - arrastar arquivo dos dados
+
+
+---
+Buscar padrões de projetos para aprimorar a programação
+Use a Cabeça Java
+
+
+https://drive.google.com/uc?id=0BwYmbMcHNcSwMFJ0ZTZZbnZuUVU&export=download
+
+http://baixadorlivre.blogspot.com/2013/02/use-cabeca-java-2-edicao.html
+
+--- 
+WindowBuilder
+para criar interface gráfica
+
+---- 
+
+Workbench
+desinstalar tudo (mysql e workebench)
+ver todos os serviços
+excluir arquivos que tenha sobrado no arquivo de programas
+reiniciar
+instalar tudo novamente

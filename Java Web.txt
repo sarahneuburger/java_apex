@@ -1,0 +1,49 @@
+Java Web
+
+
+API - integração com outro sistema
+Acessar dados e gravar dados
+Com segurança
+Coloco parâmetros e regras
+xml, json e yaml
+
+--------------
+Java Server Pages
+"linguagem" voltada para internet
+porém, sintaxe igual ao java desktop
+HTML e Java
+
+
+------------
+Apache Tomcat
+servidor de aplicação
+versão novo
+Core - zip
+dentro da pastinha bin, o que é .bat é para windows
+startar fora do eclipse: abrir prompt de comando - cd c:\tomcat - cd bin - startup.bat 
+(tab autocompleta) - erro
+este computador - botão direito - propriedades - variáveis de ambiente
+
+
+-----
+o padrão é get, mostra os dados na url
+
+----
+Exercício
+criar um buscador
+duckduckgo, google, bing, yahoo
+
+Página JSP
+Busca das palavras é o servlet
+
+Como manter apenas um botão selecionado
+
+google.com/search?q=aviao
+
+
+----
+help
+new softwares
+all
+web xml java ee
+

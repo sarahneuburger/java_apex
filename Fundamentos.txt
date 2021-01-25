@@ -1,0 +1,126 @@
+Java Fundamentos
+
+- multiplataforma
+- 1989, por Sun Microsystems, James Gosling
+- primeira linguagem multiplataforma
+- 1994 1ª tv com java
+- principais sistemas operacionais e exporta para diversos periféricos
+- 2004 Oracle compra o Java
+
+IDE - Ambiente de desenvolvimento integrado: propor um ambiente que facilita a elaboração de projetos
+Principais: Eclipse, Netbeans, IntelliJ
+
+JDK - Java Development Kit - estrutura para desenvolver e executar arquivos java. Vem com o JRE embutido
+
+JRE - Java Runtime Enviroment - executa arquivos em formato java. "Traduz" para o sistema operacional usado
+
+JVN - Java virtual machine - dentro do JRE - ambiente virtual para compilar as aplicações em java
+
+
+----
+
+VS code - é bom utilizar só para web, pois não compila os dados.
+
+--- 
+
+Java e Class
+.java - código fonte do projeto
+.class - arquivo que será compilado na JVN
+
+---
+
+Questões
+1) Pedir três notas e retornar a média. Também exiba a situação do aluno, caso a média seja 7 ou superior aprovado(a) caso contrário reprovado(a).
+
+2) Pedir a quantidade de cada nota (2, 5, 10, 20, 50, 100 e 200). Retorne o valor total em notas.
+
+3) Peça o peso e a altura e retorne o IMC. Dependendo do valor do IMC, exiba a situação.
+
+< 18.5 - Abaixo do peso
+< 25    - Peso normal
+< 30    - Acima do peso
+>= 30  - Obesidade
+
+peso / (altura * altura) ou peso / Math.pow(altura, 2) 
+
+
+
+
+4) Será pedido um número, realize a tabuada desse valor.
+
+5) Haverá uma lista de quatro candidatos e uma opção para finalizar o laço. Enquanto não for finalizado o laço peça o número do candidato e contabilize. Quando finalizar o laço exiba a quantidade de votos para cada candidato.
+
+6) Informe dois valores, exiba os valores entre eles.
+Exemplo: Se for informado os números 2 e 5 retorne: 2 3 4 e 5
+
+
+
+
+7) Peça 7 números e retorne qual deles é o menor.
+
+8) Peça cinco números, não poderá haver repetição. 
+
+9) Desenvolver uma agenda para cadastrar e selecionar os contatos. Crie uma filtragem, onde será possível exibir os dados do contato através do nome.
+
+
+
+
+------
+Aula 2
+Resetar visão do Eclipse
+Canto esquerdo tem uma opção Java - clicar com o direito - Reset
+
+
+Pacotes
+Por padrão leva o nome da empresa em que se está programando (ao contrário) e depois o nome da classe
+Ex: apexensino.com.br
+
+br.com.apexensino.produto
+br.com.apexensino.cliente
+
+Pacotes - são pastinhas no workspace
+
+
+Método - Visibilidade
+qual alcance para visualização da classe
+
+
+Site que cria base de dados
+4devs.com.br
+Para praticar
+
+http://dontpad.com/javasabado
+
+----
+Exercícios todos os laços e condições.
+
+
+-----
+tiobe.com
+ranking das linguagens
+
+
+--------
+ctrl + shift + f
+identa as linhas do código
+
+---
+Fazer exercício página 27/29 (mercado)
+
+----- 
+Beans
+Espelhar classe
+padrão do banco
+Utilizar nomes iguais entre classe e banco, sempre que possível
+
+DAO
+Data Acess Object
+separar método de banco das demais funcionalidades do sistema
+
+-----------
+MVC
+Model - View - Controller
+Camadas bem definidas
+padronização
+
+
